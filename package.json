@@ -12,6 +12,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.0",
+    "netlify-cli": "^17.36.2",
     "serverless-http": "^3.2.0"
   }
 }
