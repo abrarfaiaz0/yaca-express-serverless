@@ -7,6 +7,7 @@ const app = express();
 app.use(cors());
 
 app.get("/signup", (req, res) => {
+  console.log(req);
   res.json({ test: 2 });
 });
 
